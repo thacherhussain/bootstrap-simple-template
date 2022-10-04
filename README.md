@@ -1,1 +1,1 @@
-# Bootstrap Demo Site
+## Bootstrap Simple Site Template
