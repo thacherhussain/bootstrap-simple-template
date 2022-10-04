@@ -1,1 +1,1 @@
-## Bootstrap Simple Site Template
+## Bootstrap Simple Template
